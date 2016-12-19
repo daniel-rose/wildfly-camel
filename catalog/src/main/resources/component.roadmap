@@ -57,6 +57,7 @@ mvel
 mybatis
 nats
 netty4
+olingo2
 optaplanner
 paho
 pdf
@@ -159,7 +160,22 @@ spring-ws
 websocket
 
 [undecided]
+bonita
+couchbase
+drill
+elasticsearch5
+google-pubsub
 http4s
+mongodb-gridfs
+mongodb3
+openstack-cinder
+openstack-glance
+openstack-keystone
+openstack-neutron
+openstack-nova
+openstack-swift
+reactive-streams
+tika
 
 [rejected]
 apns
@@ -182,7 +198,6 @@ ganglia
 geocoder
 gora
 grape
-gridfs
 guava-eventbus
 hipchat
 http
