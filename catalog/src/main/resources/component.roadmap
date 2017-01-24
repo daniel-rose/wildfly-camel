@@ -159,7 +159,21 @@ spring-ws
 websocket
 
 [undecided]
+bonita
+couchbase
+drill
+elasticsearch5
+google-pubsub
 http4s
+mongodb3
+openstack-cinder
+openstack-glance
+openstack-keystone
+openstack-neutron
+openstack-nova
+openstack-swift
+reactive-streams
+tika
 
 [rejected]
 apns
